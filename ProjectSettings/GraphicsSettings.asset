@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!30 &1
+GraphicsSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 12
+  m_Deferred:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_DeferredReflections:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_ScreenSpaceShadows:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_LegacyDeferred:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_DepthNormals:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_MotionVectors:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_LightHalo:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_LensFlare:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_AlwaysIncludedShaders:
+  - {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15105, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15106, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10782, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 64db0e77277014f44a8150707a2c4f44, type: 3}
+  - {fileID: 4800000, guid: 61e48e026e90c1c47942c946d0bf0212, type: 3}
+  - {fileID: 16000, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: c087c151481e3fe4cab12a337c1bc9eb, type: 3}
+  - {fileID: 4800000, guid: 87b6da8ae0d432c4ca129c431b586dfc, type: 3}
+  - {fileID: 4800000, guid: f9d5fa183cd6b45eeb1491f74863cd91, type: 3}
+  - {fileID: 4800000, guid: 0698ddc753479754ea16388dd45473d5, type: 3}
+  - {fileID: 4800000, guid: a43cc428cf7b3774b85352278b9f513a, type: 3}
+  - {fileID: 4800000, guid: aa7fb6e39f9144f3a83fdf1554e8b0de, type: 3}
+  - {fileID: 4800000, guid: 8f7886b17353b0e4ca611dc90ba1e304, type: 3}
+  - {fileID: 4800000, guid: 58e928edadb7a744caf3291526563fdf, type: 3}
+  - {fileID: 4800000, guid: 93431f36cb9899446bfe6a9234ddeef3, type: 3}
+  - {fileID: 17000, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 68f9938c7bf52e94bb37d6a74297f0ae, type: 3}
+  - {fileID: 4800000, guid: ce4cea5500fd1664ab8ec906187a8f6e, type: 3}
+  - {fileID: 4800000, guid: 9f3f6f752b5025443bac6d8a81d38478, type: 3}
+  - {fileID: 4800000, guid: dbfcdac9417695f4e9cc55c4e4cb03d8, type: 3}
+  - {fileID: 203, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 207, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10721, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10751, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 202, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10703, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10701, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
+  m_PreloadedShaders: []
+  m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
+    type: 0}
+  m_CustomRenderPipeline: {fileID: 0}
+  m_TransparencySortMode: 0
+  m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+  m_DefaultRenderingPath: 1
+  m_DefaultMobileRenderingPath: 1
+  m_TierSettings: []
+  m_LightmapStripping: 1
+  m_FogStripping: 1
+  m_InstancingStripping: 1
+  m_LightmapKeepPlain: 1
+  m_LightmapKeepDirCombined: 0
+  m_LightmapKeepDynamicPlain: 0
+  m_LightmapKeepDynamicDirCombined: 0
+  m_LightmapKeepShadowMask: 0
+  m_LightmapKeepSubtractive: 1
+  m_FogKeepLinear: 1
+  m_FogKeepExp: 0
+  m_FogKeepExp2: 0
+  m_AlbedoSwatchInfos: []
+  m_LightsUseLinearIntensity: 0
+  m_LightsUseColorTemperature: 0
