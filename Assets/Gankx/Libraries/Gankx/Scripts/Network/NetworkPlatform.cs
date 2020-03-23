@@ -3,9 +3,10 @@
     public enum NetworkPlatform
     {
         None = 0,
-        Wechat = 1,
-        QQ = 2,
-        WTLogin = 3,
+        Dogic = 1,
+        Wechat = 2,
+        QQ = 3,
+        WTLogin = 4,
         Guest = 5,
         AutoLogin = 6,
 

@@ -168,11 +168,11 @@ GameObject:
   m_Component:
   - component: {fileID: 86688502}
   - component: {fileID: 86688501}
-  - component: {fileID: 86688507}
   - component: {fileID: 86688506}
   - component: {fileID: 86688505}
-  - component: {fileID: 86688504}
   - component: {fileID: 86688503}
+  - component: {fileID: 86688507}
+  - component: {fileID: 86688504}
   m_Layer: 0
   m_Name: GamePortal
   m_TagString: Untagged
@@ -231,7 +231,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 86688500}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bfba2f2b7944b3544b32827c73f617cd, type: 3}
+  m_Script: {fileID: 11500000, guid: b121528a0a9c9e54488c81070011af40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &86688505
@@ -267,7 +267,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 86688500}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 12961eba87a0c55479d560682f515115, type: 3}
+  m_Script: {fileID: 11500000, guid: 04cb5feaaab329e44afd3e3f3a2e9cfd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &93119592

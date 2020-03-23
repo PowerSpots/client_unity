@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/battle_pve.unity
     guid: 6e746c3bb368db04e81435c0216f7e1d
+  - enabled: 1
+    path: Assets/Scenes/game.unity
+    guid: 771d8b176a0dbe345a3fc108d332b1a5
+  - enabled: 1
+    path: Assets/Scenes/lobby.unity
+    guid: 069d31af1b5cdb34d80978ea6495ce6d
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: 157c9bc66a7b2f84a91d1d5fc31e7dbb
   m_configObjects: {}
